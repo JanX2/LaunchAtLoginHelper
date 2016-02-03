@@ -98,7 +98,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = LLH;
-				LastUpgradeCheck = 0640;
+				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "David Keegan";
 			};
 			buildConfigurationList = 734C378E15414CE200994189 /* Build configuration list for PBXProject "LaunchAtLoginHelper" */;
@@ -156,6 +156,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
